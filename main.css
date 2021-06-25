@@ -6,13 +6,13 @@ h1 {
 
   h2 {
     color:black;
-    font-size: 30px;
+    font-size: 32px;
     fonth1-family: "serif", "sans-serif", "cursive", "fantasy", "monospace";
   }
 
   h3 {
     color:black;
-    font-size: 22px;
+    font-size: 20px;
     fonth1-family: 'courier', 'arial', 'helvetica';
   }
 
@@ -41,6 +41,54 @@ h1 {
   }
 
   p5 {
+    color:black;
+    font-size: 18px;
+    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  p6 {
+    color:black;
+    font-size: 18px;
+    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  p7 {
+    color:black;
+    font-size: 18px;
+    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  p8 {
+    color:black;
+    font-size: 18px;
+    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  p9 {
+    color:black;
+    font-size: 18px;
+    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  p10 {
+    color:black;
+    font-size: 18px;
+    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  p11 {
+    color:black;
+    font-size: 18px;
+    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  p12 {
+    color:black;
+    font-size: 18px;
+    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  p13 {
     color:black;
     font-size: 18px;
     fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
